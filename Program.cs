@@ -11,7 +11,7 @@ namespace Metodlar
             rastgeleTamsayi();
             
             
-            
+            Console.WriteLine(rastgeleTamsayi());
             Console.Write("Birinci sayiyi girin: ");
             int a = int.Parse(Console.ReadLine()!);
 
@@ -31,22 +31,23 @@ namespace Metodlar
         }
 
         public static void sarkiSözleri()
-        {   Console.WriteLine("--------------------------");
+        {   
             Console.WriteLine("Kasette Simge'den Aşkin olayim çaliyor.");
-            Console.WriteLine("--------------------------");
+            
             Console.WriteLine("Aşkiiin olayiiim");
-            Console.WriteLine("--------------------------");
+            
         }
         
-        public static void rastgeleTamsayi()
+        public static int rastgeleTamsayi()
         {
-        Console.WriteLine("Rastgele Bir Tam Sayi Oluşturuyoruz 1-100 arasinda");
-        Console.WriteLine("--------------------------");
-        Random rnd = new Random();
-        // 1 ile 100 arasında tamsayı
-        int sayi = rnd.Next(1, 101);
-        Console.WriteLine("Rastgele tamsayi (1-100): " + sayi);
-        Console.WriteLine("--------------------------");
+            
+            
+            
+            int sayi=new Random().Next();
+            
+            return sayi%2;
+            
+            
         }
 
         public static int carpimYapanMetod(int a,int b)

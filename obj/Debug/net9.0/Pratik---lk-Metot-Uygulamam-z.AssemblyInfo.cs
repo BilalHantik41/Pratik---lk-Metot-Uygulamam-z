@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pratik---lk-Metot-Uygulamam-z")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a95a20229fbdc6cc98f004ce8828f71df3e2d2af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe64a86cf24d17a108812f4d926540536187b20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pratik---lk-Metot-Uygulamam-z")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pratik---lk-Metot-Uygulamam-z")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
