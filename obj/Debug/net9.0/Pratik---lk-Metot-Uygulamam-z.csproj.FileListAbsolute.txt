@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\bin\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.exe
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\bin\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.deps.json
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\bin\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\bin\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.dll
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\bin\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.dll
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\refint\Pratik---lk-Metot-Uygulamam-z.dll
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\Pratik---lk-Metot-Uygulamam-z.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Pratik---lk-Metot-Uygulamam-z\obj\Debug\net9.0\ref\Pratik---lk-Metot-Uygulamam-z.dll
